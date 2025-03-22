@@ -2,9 +2,9 @@
 1 Project Overview:
   Brief description of the project, including the problem statement and objective.
 2 Technologies Used:
-  Power BI, DAX, SQL (if applicable), Python (if used for preprocessing).
+  Power BI, DAX, Excel.
 3 Data Sources:
-  Mention the dataset (synthetic or real) and preprocessing steps.
+   Amazon Sale  dataset  and preprocessing steps.
 4 Key Features:
   Time Series Analysis for Sales Forecasting.
 5 Trend Analysis and Seasonal Pattern Detection.
